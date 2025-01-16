@@ -1,0 +1,12 @@
+{
+  "name": "data",
+  "version": "1.0.0",
+  "main": "task5.js",
+  "scripts": {
+    "dev": "node --watch task5.js",
+    "start": "node task5.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
