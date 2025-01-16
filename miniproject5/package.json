@@ -1,0 +1,13 @@
+{
+  "name": "miniproject5",
+  "version": "1.0.0",
+  "main": "task5.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch task5.js",
+    "start": "node task5.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
